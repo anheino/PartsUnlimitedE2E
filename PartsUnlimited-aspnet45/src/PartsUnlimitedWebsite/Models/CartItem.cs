@@ -5,7 +5,12 @@ namespace PartsUnlimited.Models
 {
     public class CartItem : ILineItem
     {
-        //Antti changed this line trice
+        //Antti changed this line four times
+        //test123
+        //jdjakhj
+        //uyqtweuyetwqy
+        //asjhsajk
+        //kjhaskjhaskj
         [Key]
         public int CartItemId { get; set; }
 
